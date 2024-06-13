@@ -1,2 +1,2 @@
 # bookStore-App
-<h1>Author:- Kunj Patel</h1>
+<h2>Author:- Kunj Patel</h1>
